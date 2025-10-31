@@ -1,0 +1,17 @@
+[
+  {
+    "id": "q1",
+    "question": "what is the sum of 2+3?",
+    "solution": "Step 1: Recognize these are integers. Step 2: Add them: 2+3=5. Final: 5"
+  },
+  {
+    "id": "q2",
+    "question": "differentiate x^2",
+    "solution": "d/dx x^2 = 2x"
+  },
+  {
+    "id": "q3",
+    "question": "integrate 2x",
+    "solution": "\u222b2x dx = x^2 + C"
+  }
+]

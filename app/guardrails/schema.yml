@@ -1,0 +1,14 @@
+# Minimal guardrails schema example (placeholder)
+type: rail
+version: 1
+name: math_agent_io
+spec:
+  - name: user_question
+    type: string
+    description: The user's math question
+    required: true
+    max_length: 2000
+  - name: answer
+    type: string
+    description: The model's answer
+    required: true
