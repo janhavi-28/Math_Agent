@@ -1,4 +1,4 @@
-echo "# Math Agent 🤖  
+Math Agent 🤖  
 An intelligent math-solving agent combining Tavily API (LLM reasoning) and SerpAPI (web search).  
 
 ## 🚀 Features
